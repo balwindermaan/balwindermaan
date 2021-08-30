@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balwindermaan
+- 👋 Hi, I’m @balwinder
 - 👀 I’m interested in data science applications in property and casualty and group health
 - 🌱 I’m currently learning python and django.
 - 💞️ I’m looking to collaborate on projects that involve claims processing and analysis, fp&a modelling, broker management systems. 
